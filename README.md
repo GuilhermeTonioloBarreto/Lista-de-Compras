@@ -3,7 +3,7 @@
 Instruções de uso:
 
 Utilize o modelo de receitas conforme figura abaixo e escreva:
-![](/exemplo.png)
+![](/exemplo.PNG)
 * O nome da receita como comentario
 * Na variavel "quantidade", escreva a quantidade de vezes que voce ira fazer a receita (0, 1, 2, 3 ...)
 * Escreva um laco for identivo ao dos exemplos abaixo
