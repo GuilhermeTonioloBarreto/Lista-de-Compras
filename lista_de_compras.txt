@@ -1,0 +1,6 @@
+Lista de Compras
+
+( ) arroz           = 0.80 kg
+( ) feijao          = 0.40 kg
+( ) ovo             = 2.00 un
+( ) salada          = 2.00 un
