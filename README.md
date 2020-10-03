@@ -1,8 +1,9 @@
 # Lista de Compras #
 ## Objetivo desenvolver uma lista de compras gerada automaticamente para o usuário, a partir da receita de comida registrada pelo usuário e a quantidade de vezes que o usuário irá consumí-la ##
 Instruções de uso:
-Lista de Ingredientes
+
 Utilize o modelo de receitas conforme figura abaixo e escreva:
+![](/exemplo.png)
 * O nome da receita como comentario
 * Na variavel "quantidade", escreva a quantidade de vezes que voce ira fazer a receita (0, 1, 2, 3 ...)
 * Escreva um laco for identivo ao dos exemplos abaixo
